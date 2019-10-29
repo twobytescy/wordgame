@@ -424,7 +424,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-wordgame/Pods-wordgame-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-wordgame/Pods-wordgame-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/FontAwesome.swift/FontAwesome_swift.framework",
 				"${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework",
 				"${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework",
@@ -439,7 +439,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-wordgame/Pods-wordgame-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-wordgame/Pods-wordgame-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C846FAFE4CF843BCF618B32F /* [CP] Check Pods Manifest.lock */ = {

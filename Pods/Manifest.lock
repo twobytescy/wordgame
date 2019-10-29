@@ -11,7 +11,7 @@ DEPENDENCIES:
   - SnapKit
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - FontAwesome.swift
     - PureLayout
     - SkyFloatingLabelTextField
@@ -25,4 +25,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 5dec408e99bfecf65ac3f2dbc8b40038c8143bb9
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4
