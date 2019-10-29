@@ -1,0 +1,6 @@
+framework module Pods_wordgameUITests {
+  umbrella header "Pods-wordgameUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

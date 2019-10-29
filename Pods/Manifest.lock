@@ -1,0 +1,28 @@
+PODS:
+  - FontAwesome.swift (1.8.1)
+  - PureLayout (3.0.2)
+  - SkyFloatingLabelTextField (3.4.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - PureLayout
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FontAwesome.swift
+    - PureLayout
+    - SkyFloatingLabelTextField
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 6f55c8ed22a30ab6a8ca94033473161f678dcd4b
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SkyFloatingLabelTextField: 703aa1420b697392b1e7dba25571180dde018477
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 5dec408e99bfecf65ac3f2dbc8b40038c8143bb9
+
+COCOAPODS: 1.5.3
